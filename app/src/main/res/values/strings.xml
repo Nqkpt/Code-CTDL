@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KT2_Bottom_navigation</string>
+    <string-array name="Lich">
+        <item>HN-Sa pa</item>
+        <item>HN-Ha Giang</item>
+        <item>HN-Hoi An</item>
+        <item>HN-Nha Trang</item>
+    </string-array>
+
+</resources>
